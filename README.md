@@ -86,7 +86,6 @@ python main.py -b bot_testnet -type open -p ETH -a 1000 -l 5 -d long -s 2000 -t 
 
 **Пример вывода:**
 ```
-
 Позиция открыта: {'asset': 'ETH', 'size': 0.4891, 'price': 2044.55, 'leverage': 5.0, 'direction': 'long', 'stop_loss_id': 27070021617, 'take_profit_id': 27070022079, 'amount_usd': 1000.0}
 ```
 
