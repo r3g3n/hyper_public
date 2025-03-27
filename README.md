@@ -108,7 +108,6 @@ python main.py -b bot_testnet -type close -p ETH
 
 **Пример вывода:**
 ```
-
 Позиция закрыта: {'status': 'closed', 'asset': 'ETH', 'closed_size': 0.4891}
 ```
 
@@ -125,7 +124,6 @@ python main.py -b bot_testnet -type market_close -p BTC
 
 **Пример вывода:**
 ```
-
 Позиция немедленно закрыта по рынку: {'status': 'closed', 'asset': 'BTC', 'closed_size': 0.0006, 'order_id': 27070009795}
 ```
 
